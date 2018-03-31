@@ -8,4 +8,6 @@ New line for branch two.
 
 Branch one changes to the file sister.
 
+Added new line after merge.
+
 
