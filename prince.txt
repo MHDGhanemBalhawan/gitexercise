@@ -7,3 +7,8 @@ Exaggerated emotions plus a commercial advert bag from coach and the special sta
 New line branch-one
 Changes before second commit.
 
+Added a new line after the merge and commit.
+
+
+Added a new line after commit.
+
