@@ -4,10 +4,16 @@ The jealous sister is standing next to the star character, the Prince, Cindarell
 The jealous step sister,Cindarella, the Prince with the guard plus a commercial advert bag from coach and the special star character is comes back to the scene with everyone's emotions even more exaggerated.
 Exaggerated emotions plus a commercial advert bag from coach and the special star character is not in this scene.
 
+
+Branch one changes to the file sister.
+
+New line for branch two.
+
 New line for branch two.
 
 Branch one changes to the file sister.
 
 Added new line after merge.
+
 
 
