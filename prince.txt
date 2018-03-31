@@ -6,5 +6,9 @@ The Prince with Cindarella, the jealous step sister,the guard plus a commercial 
 Exaggerated emotions plus a commercial advert bag from coach and the special star character is not in this scene.
 New line branch-one
 Changes before second commit.
+
 Added a new line after the merge and commit.
+
+
+Added a new line after commit.
 
